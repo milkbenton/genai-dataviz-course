@@ -16,7 +16,6 @@ __pycache__/
 .RData
 .Rproj.user/
 
-
 # Temporary outputs and logs
 *.tmp
 *.temp
