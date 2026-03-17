@@ -19,7 +19,7 @@ __pycache__/
 # Ignore local datasets but keep folder structure
 datasets/raw/*
 !datasets/raw/.gitkeep
-!datasets/raw/taxation
+!datasets/raw/taxation/*
 datasets/processed/*
 !datasets/processed/.gitkeep
 
